@@ -1,6 +1,6 @@
 
 
-console.log("boss is here boies")
+console.log("boss is here fuck ur boss")
 
 console.log("zinal creating hsit")
 
